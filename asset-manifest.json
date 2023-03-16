@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ubereats-clone/static/css/main.073c9b0a.css",
-    "main.js": "/ubereats-clone/static/js/main.bef9cff9.js",
+    "main.css": "/ubereats-clone/static/css/main.1e36b3c3.css",
+    "main.js": "/ubereats-clone/static/js/main.1acabaff.js",
     "static/js/787.5eb736e8.chunk.js": "/ubereats-clone/static/js/787.5eb736e8.chunk.js",
     "index.html": "/ubereats-clone/index.html",
-    "main.073c9b0a.css.map": "/ubereats-clone/static/css/main.073c9b0a.css.map",
-    "main.bef9cff9.js.map": "/ubereats-clone/static/js/main.bef9cff9.js.map",
+    "main.1e36b3c3.css.map": "/ubereats-clone/static/css/main.1e36b3c3.css.map",
+    "main.1acabaff.js.map": "/ubereats-clone/static/js/main.1acabaff.js.map",
     "787.5eb736e8.chunk.js.map": "/ubereats-clone/static/js/787.5eb736e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bef9cff9.js"
+    "static/css/main.1e36b3c3.css",
+    "static/js/main.1acabaff.js"
   ]
 }
