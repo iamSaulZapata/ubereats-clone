@@ -4,7 +4,7 @@ function App() {
 	return (
 		<div className="App flex">
 			<h1 className="text-lg text-left ">Uber</h1>
-			<h1 className="text-lg text-left  ">Eats</h1>
+			<h1 className="text-lg text-left  ">Eats test</h1>
 		</div>
 	);
 }
